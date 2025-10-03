@@ -31,45 +31,45 @@ npm install
 npm run dev
 ```
 ## Usage
-Fill out the form with your professional information:
+*Fill out the form with your professional information:*
 
-Full Name
-Email Address
-Job Title
-GitHub Username
-X Username (optional)
-Click "Generate Developer Card" to create your card
-Choose your preferred download format:
-JSON: Raw data file for developers
-PNG: High-quality screenshot for sharing
-PDF: Printable document format
-Use additional options:
-Copy JSON to clipboard
-Share on X platform
-Access direct profile links
+- Full Name
+- Email Address
+- Job Title
+- GitHub Username
+- X Username (optional)
+- Click "Generate Developer Card" to create your card
+- Choose your preferred download format:
+- JSON: Raw data file for developers
+- PNG: High-quality screenshot for sharing
+- PDF: Printable document format
+- Use additional options:
+- Copy JSON to clipboard
+- Share on X platform
+- Access direct profile links
 
 ## Configuration
-The application supports the following configurations:
+*The application supports the following configurations:*
 
-Theme: Automatic dark/light mode detection with manual toggle
-Export Quality: High-resolution PNG and PDF exports
-Custom Styling: VS Code-inspired color schemes
-Responsive Breakpoints: Mobile-first responsive design
+- Theme: Automatic dark/light mode detection with manual toggle
+- Export Quality: High-resolution PNG and PDF exports
+- Custom Styling: VS Code-inspired color schemes
+- Responsive Breakpoints: Mobile-first responsive design
 
 ## Contributing
-We welcome contributions! Please follow these steps:
+*We welcome contributions! Please follow these steps:*
 
-Fork the repository
-Create a feature branch: git checkout -b feature/amazing-feature
-Commit your changes: git commit -m 'Add amazing feature'
-Push to the branch: git push origin feature/amazing-feature
-Open a Pull Request
+- Fork the repository
+- Create a feature branch: git checkout -b feature/amazing-feature
+- Commit your changes: git commit -m 'Add amazing feature'
+- Push to the branch: git push origin feature/amazing-feature
+- Open a Pull Request
 
 ## Development Guidelines
-Follow React best practices and hooks conventions
+*Follow React best practices and hooks conventions*
 
-Use Tailwind CSS for styling
-Ensure responsive design works on all screen sizes
-Maintain consistent code formatting
-Add appropriate error handling
-Test all export functionality
+- Use Tailwind CSS for styling
+- Ensure responsive design works on all screen sizes
+- Maintain consistent code formatting
+- Add appropriate error handling
+- Test all export functionality
