@@ -1,6 +1,7 @@
 ## Developer-Card Generator
 A professional developer profile card generator that creates beautiful, customizable cards in JSON format with VS Code-inspired styling. Generate, download, and share your developer profile across multiple formats.
-
+![Demo](./public/image.png)
+![Live Link]()
 ## Features
 - Multi-Format Export: Download your card as JSON, PNG, or PDF
 - VS Code Inspired: Dark/Light theme support with syntax highlighting
@@ -20,7 +21,7 @@ A professional developer profile card generator that creates beautiful, customiz
 1. Clone the repository
 ```bash
 git clone https://github.com/bethwel3001/devcard.git
-cd devcard-generator
+cd devcard
 ```
 2. Install dependencies
 ```bash
