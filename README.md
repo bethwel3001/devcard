@@ -5,7 +5,7 @@ A professional developer profile card generator that creates beautiful, customiz
   <img src="./public/image.png" alt="your card" width="600"/>
 </div>
 
-**Live Site:** ![Live Link]()
+![Live site on Netlify](https://developertechcard.netlify.app/)
 
 - Multi-Format Export: Download your card as JSON, PNG, or PDF
 - VS Code Inspired: Dark/Light theme support with syntax highlighting
